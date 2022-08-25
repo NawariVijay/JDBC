@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datastore>
+<employee empid="1381">
+<name>ram</name>
+<salary>25000</salary>
+</employee>
+<employee empid="1379">
+<name>vijay</name>
+<salary>26789</salary>
+</employee>
+<employee empid="1387">
+<name>raj</name>
+<salary>24671</salary>
+</employee>
+</datastore >
